@@ -1,5 +1,5 @@
-# Dashboard-and-Visualization-Using-Python
-The main aim of this project is to build a dashboard using Python
+# Analysis of military spending and human casualties
+The main aim of this project is to extract insights and  build a dashboard using Python
 
 This project analyzed military spending and human casualties resulting from war across different regions of the world from 1960 to 2021. The study found that military expenditure has been increasing in all regions, with a significant spike in 2010. North America was identified as the highest spender on military, followed by Europe and East Asia.
 
